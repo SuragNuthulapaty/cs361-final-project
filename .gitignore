@@ -157,3 +157,5 @@ cython_debug/
 /.idea/misc.xml
 /.idea/modules.xml
 /.idea/vcs.xml
+MNIST_data/
+*DS_Store*
